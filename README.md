@@ -1,6 +1,7 @@
-# Ejercicio 4 — Suma por Fila y Columna en una Matriz 3x3
+# Ejercicio 4 — Suma por Fila y Columna en una Matriz 3x3 | COSTA PERALTA LUCIANO JAVIER Y BARRIOS CRISTIAN MARTIN
 
 ## Descripción
+
 
 Este programa en lenguaje **C (estándar C90)** solicita al usuario que ingrese los elementos de una matriz de 3x3 compuesta por números enteros. Luego, muestra:
 
